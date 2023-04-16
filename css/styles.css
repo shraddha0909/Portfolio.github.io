@@ -324,6 +324,7 @@ p {
         width: 100%;
         padding-top: 5%;
         align-items: center;
+        margin-left: auto;
     }
     h3 {
         font-size: 15px;
@@ -376,6 +377,7 @@ p {
         width: 100%;
         padding-top: 5%;
         align-items: center;
+        margin-left: auto;
     }
     h3 {
         font-size: 15px;
@@ -428,6 +430,7 @@ p {
         height: auto;
         padding-top: 5%;
         align-items: center;
+        margin-left: auto;
     }
     h3{
         font-size: 20px;
